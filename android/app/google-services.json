@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967769114170",
+    "project_id": "gaaz-f962d",
+    "storage_bucket": "gaaz-f962d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967769114170:android:dae0b2214961cf97b81703",
+        "android_client_info": {
+          "package_name": "app.kw.gaaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967769114170-r1v0312k2hu39vcoumua41oablto7l69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.kw.gaaz",
+            "certificate_hash": "8444e5a38aedc97aee084bdfb09af62c7c5938b9"
+          }
+        },
+        {
+          "client_id": "967769114170-jbruvi1r408k5ul4qimpo39btavsssit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpDHetfHrlJLxVyj7EHIdIu2kbHpTR1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967769114170-jbruvi1r408k5ul4qimpo39btavsssit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
